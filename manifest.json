@@ -2,7 +2,7 @@
   "short_name": "Smiley clock",
   "name": "Smiley clock",
   "display": "standalone",
-  "start_url": "./clock/",
+  "start_url": "https://maiko-9.github.io/clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{

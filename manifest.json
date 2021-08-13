@@ -2,7 +2,7 @@
   "short_name": "Smiley clock",
   "name": "Smiley clock",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "./clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{
